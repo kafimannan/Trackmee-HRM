@@ -1,0 +1,1 @@
+a:4:{s:6:"_token";s:40:"AHBpj7XTMmH3mpXez2a6dCvmwIlVvlgraZQ4Gszl";s:9:"_previous";a:1:{s:3:"url";s:41:"http://localhost:8000/admin/employee/show";}s:6:"_flash";a:2:{s:3:"old";a:0:{}s:3:"new";a:0:{}}s:10:"loggedUser";O:8:"stdClass":5:{s:6:"userId";i:1;s:8:"username";s:3:"bob";s:8:"password";s:3:"bob";s:4:"type";s:5:"Admin";s:9:"lastLogin";s:19:"2018-02-16 00:00:00";}}
