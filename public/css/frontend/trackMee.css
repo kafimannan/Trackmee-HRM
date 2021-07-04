@@ -1,0 +1,6 @@
+body{
+    background-image: url("{{ asset('/photos/Night-Sky-Wallpaper-in-HD-Resolution-wpc2007362.jpg') }}") ;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    color:white;
+}
